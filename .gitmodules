@@ -1,0 +1,15 @@
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/Subikshan0612/HRMS-DEMO.git
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/RickyHarish/db4-frontend.git
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/RickyHarish/db4-backend.git
+[submodule "repo4"]
+	path = repo4
+	url = https://github.com/berlindinesh/Backend.git
+[submodule "repo5"]
+	path = repo5
+	url = https://github.com/Sangeeta-Prajapati/HRMS-DEMO.git
